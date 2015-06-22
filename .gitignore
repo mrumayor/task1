@@ -1,0 +1,9 @@
+# Intelli specific
+task1.iml
+.idea
+
+target/
+
+# Fake logs
+appLogs/*
+*.log
